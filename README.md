@@ -1,5 +1,7 @@
 # Simulating Metgenomic Short Reads for Assembly, Mapping, and Binning experiments
 
+**This is a fork of the read-for-assembly repository maintained by the Meren lab. My intention is too extend functionality to include dropouts and cell barcodes and UMIs. **
+
 Scripts to generate random short reads from a given set of contigs, so they can be assembled back (to test assemblers, or genome binning software, or more).
 
 Using the config files and scripts,
